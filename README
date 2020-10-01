@@ -1,0 +1,20 @@
+Libevaio
+============
+
+Libevaio is a simple library allowing the use of POSIX AIO with libevent.
+
+Repository
+==========
+
+https://github.com/rgacogne/libevaio
+
+
+Author
+======
+Remi Gacogne (rgacogne/at/coredump/dot/fr).
+Nicolas Sitbon.
+
+Libevent
+========
+
+Libevent can be found at http://libevent.org/
